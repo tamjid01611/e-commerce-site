@@ -4,7 +4,7 @@ body{
     background-size: cover; 
 }
 .logoimg{
-    margin-left: -330%;
+    margin-left: -250%;
     
 }
 .logoimg img{
@@ -29,9 +29,7 @@ body{
     margin-bottom: 50px;
 
 }
-.sec1{
 
-}
 
 .cdfooter{
     border: 0;
@@ -63,7 +61,7 @@ body{
     transform: scale(1.1);
 }
 .fullimg{
-    width: 700px;
+    width: 636px;
     margin-left: 105px;
 }
 .bottomall{
