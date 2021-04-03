@@ -1,0 +1,94 @@
+body{
+    background-image: url("image/bg-2.png");
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.logoimg{
+    margin-left: -330%;
+    
+}
+.logoimg img{
+    width: 190px;
+}
+.list a{
+    color: rgba(0, 0, 0, 0.747);
+    font-weight: 600;
+    font-size: 18px;
+}
+.next{
+    background-color: black;
+    margin-left: -250px;
+}
+.next2{
+    margin-right: -200px;
+    background-color: black;
+    margin-top: 40px;
+
+}
+.container{
+    margin-bottom: 50px;
+
+}
+.sec1{
+
+}
+
+.cdfooter{
+    border: 0;
+}
+.card{
+    width: 1000px;
+    margin: auto;
+    margin-bottom: 150px;
+    transition: 0.4s;
+}
+.left{
+    float: left;
+    margin-top: 170px;
+    margin-left: 100px;
+}
+.right{
+    float: right;
+}
+.leftall{
+    width: 450px;
+    margin-left: 150px;
+}
+.boximg{
+    box-shadow: 10px 10px 20px lightgray;
+    padding: 50px;
+    transition: .4s;
+}
+.card:hover{
+    transform: scale(1.1);
+}
+.fullimg{
+    width: 700px;
+    margin-left: 105px;
+}
+.bottomall{
+    width: 100%;
+    margin-bottom: 200px;
+    background-image: url("image/bg-2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box1{
+    margin-bottom: 40px;
+}
+.categories{
+    text-align: center;
+    padding-bottom: 5px;
+
+}
+.border{
+    width: 150px;
+    height: 10px;
+    border-radius: 15px;
+    background-color: orange;
+    margin: auto;
+    margin-bottom: 60px;
+}
+.boximg:hover{
+    transform: scale(1.1);
+}
