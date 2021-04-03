@@ -29,7 +29,10 @@ body{
     margin-bottom: 50px;
 
 }
-
+li a:hover{
+    color: rgba(248, 48, 48, 0.877);
+    border-bottom: 4px solid orange;
+}
 
 .cdfooter{
     border: 0;
@@ -79,14 +82,24 @@ body{
     padding-bottom: 5px;
 
 }
-.border{
+.categories:hover ~ .border{
+    background-color: rgba(248, 48, 48, 0.877);
     width: 150px;
+
+    
+}
+.border{
+    width: 100px;
     height: 10px;
     border-radius: 15px;
     background-color: orange;
     margin: auto;
     margin-bottom: 60px;
+    transition: 0.3s;
 }
 .boximg:hover{
     transform: scale(1.1);
+}
+small{
+    padding-bottom: 50px;
 }
